@@ -1,0 +1,16 @@
+{
+  "base": 6,
+  "target": 9,
+  "ingredients": [
+    [
+      "flour",
+      400,
+      5
+    ],
+    [
+      "salt",
+      7,
+      1
+    ]
+  ]
+}

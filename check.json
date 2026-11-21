@@ -1,0 +1,13 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "grams": {
+      "flour": 600,
+      "salt": 11
+    },
+    "total": 611
+  }
+}
